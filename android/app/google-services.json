@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929417018358",
+    "project_id": "flutter-test-deb2e",
+    "storage_bucket": "flutter-test-deb2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929417018358:android:5c950a02dc3915a01525d7",
+        "android_client_info": {
+          "package_name": "com.harrisonolvera.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVRYRpvAOoesPzrFFaem0S7AeC0LqESxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
